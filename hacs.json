@@ -1,0 +1,6 @@
+{
+  "name": "Kroger Price Tracker",
+  "render_readme": true,
+  "category": "integration",
+  "homeassistant": "2025.1.0"
+}
