@@ -1,10 +1,10 @@
 {
   "domain": "kroger",
   "name": "Kroger Price Tracker",
-  "version": "0.2.5",
-  "documentation": "https://github.com/fortepc/kroger-ha-integration",
-  "issue_tracker": "https://github.com/fortepc/kroger-ha-integration/issues",
-  "iot_class": "cloud_polling",
   "codeowners": ["@fortepc"],
-  "config_flow": true
+  "config_flow": true,
+  "documentation": "https://github.com/fortepc/kroger-ha-integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/fortepc/kroger-ha-integration/issues",
+  "version": "0.2.6"
 }
